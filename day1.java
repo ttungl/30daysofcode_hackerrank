@@ -24,13 +24,11 @@
 // Print the sum of both integers on the first line, the sum of both doubles (scaled to  decimal place) on the second line, and then the two concatenated strings on the third line.
 
 // Sample Input
-
 // 12
 // 4.0
 // is the best place to learn and practice coding!
 
 // Sample Output
-
 // 16
 // 8.0
 // HackerRank is the best place to learn and practice coding!
