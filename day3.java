@@ -4,9 +4,7 @@
 //     - n is even and inclusive range of 6 to 20.
 // Print "Not Weird" if
 // 	- n is even and inclusive range of 2 to 5, or greater than 20.
-
 // 1<=n<=100
-
 // --
 import java.io.*;
 import java.util.*;
