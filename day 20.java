@@ -20,7 +20,7 @@ public class Solution {
         
         int count=0;
         for(int i=0; i<n; i++){
-            //for(int j=0; j<(n-1); j++){
+            // for(int j=0; j<(n-1); j++){
             for(int j=1; j<(n-i); j++){    
                 if (a[j]>a[j+1]){
                     int temp = a[j];
